@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">My name is Daniel and I'm a Software Development student, from Brazil</h3>
+<h4 align="center">My name is Daniel and I'm a Software Development student, from Brazil</h4>
 
 ###
 
@@ -33,7 +33,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MagalDevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MagalDevs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=false&order=2" height="160" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MagalDevs&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MagalDevs&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
