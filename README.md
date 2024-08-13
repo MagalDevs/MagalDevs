@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">My name is Daniel and I'm a Software Development student, from Brazil</h4>
+<h3 align="center">My name is Daniel and I'm a Software Development student, from Brazil</h3>
 
 ###
 
