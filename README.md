@@ -37,9 +37,6 @@
 </div>
 
 ###
-<h2 align="center">Contact</h2>
-
-###
 
 <h2 align="center">Contact</h2>
 
