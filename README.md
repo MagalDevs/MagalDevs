@@ -31,7 +31,11 @@
 <h2 align="center">Stats</h2>
 
 ###
+<h2 align="center">Contact</h2>
 
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MagalDevs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=false&order=2" height="160" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MagalDevs&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
