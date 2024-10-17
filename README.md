@@ -49,7 +49,7 @@
   <a href="https://www.linkedin.com/in/daniel-galv%C3%A3o-magalh%C3%A3es-da-silva-7617b9326/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://w.app/DanielGalvao" target="_blank">
+  <a href="https://wa.me/5519991657348" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
   <a href="mailto:daniel.gal.m.silva@gmail.com" target="_blank">
