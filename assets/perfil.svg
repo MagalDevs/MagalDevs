@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="246" viewBox="0 0 1000 246" role="img" aria-labelledby="title desc">
-  <title id="title">Daniel Galvão · @MagalDevs</title>
+  <title id="title">Magal · @MagalDevs</title>
   <desc id="desc">Capa em preto e marfim. À direita, anéis rubro-negros desenham as arquibancadas de um estádio visto de cima.</desc>
   <defs>
     <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
@@ -27,6 +27,6 @@
     </g>
   </g>
   <path d="M43 58h39" stroke="#e9464f" stroke-width="5"/>
-  <text x="43" y="141" font-family="Georgia, 'Times New Roman', serif" font-size="73" font-weight="bold" letter-spacing="-3" fill="#faf4e9">Daniel Galvão</text>
-  <text x="46" y="185" font-family="Consolas, 'Courier New', monospace" font-size="22" fill="#d7cfc3">@MagalDevs</text>
+  <text x="39" y="150" font-family="Georgia, 'Times New Roman', serif" font-size="105" font-weight="bold" letter-spacing="-5" fill="#faf4e9">Magal</text>
+  <text x="46" y="201" font-family="Consolas, 'Courier New', monospace" font-size="25" fill="#d7cfc3">@MagalDevs</text>
 </svg>
