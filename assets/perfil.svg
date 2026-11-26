@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="246" viewBox="0 0 1000 246" role="img" aria-labelledby="title desc">
+  <title id="title">Daniel Galvão · @MagalDevs</title>
+  <desc id="desc">Capa em preto e marfim. À direita, anéis rubro-negros desenham as arquibancadas de um estádio visto de cima.</desc>
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#56565d"/>
+    </pattern>
+    <clipPath id="art"><rect x="526" width="474" height="246"/></clipPath>
+  </defs>
+  <rect width="1000" height="246" rx="12" fill="#18181c"/>
+  <g clip-path="url(#art)">
+    <rect x="535" width="465" height="246" fill="url(#grid)"/>
+    <g transform="translate(793 126) rotate(-18)" fill="none">
+      <g stroke="#e9464f">
+        <rect x="-208" y="-136" width="416" height="272" rx="125" stroke-width="4"/>
+        <rect x="-196" y="-124" width="392" height="248" rx="113" stroke-width="6"/>
+        <rect x="-182" y="-110" width="364" height="220" rx="99" stroke-width="16"/>
+        <rect x="-162" y="-90" width="324" height="180" rx="79" stroke-width="4"/>
+        <rect x="-152" y="-80" width="304" height="160" rx="69" stroke-width="8"/>
+      </g>
+      <rect x="-134" y="-62" width="268" height="124" rx="51" fill="#202025"/>
+      <g stroke="#d7cfc3" stroke-width="2">
+        <rect x="-94" y="-45" width="188" height="90"/>
+        <path d="M0 -45v90 M-94 -22h25v44h-25 M94 -22H69v44h25"/>
+        <circle r="15"/>
+      </g>
+    </g>
+  </g>
+  <path d="M43 58h39" stroke="#e9464f" stroke-width="5"/>
+  <text x="43" y="141" font-family="Georgia, 'Times New Roman', serif" font-size="73" font-weight="bold" letter-spacing="-3" fill="#faf4e9">Daniel Galvão</text>
+  <text x="46" y="185" font-family="Consolas, 'Courier New', monospace" font-size="22" fill="#d7cfc3">@MagalDevs</text>
+</svg>
