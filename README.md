@@ -1,27 +1,25 @@
-![Daniel Galvão, @MagalDevs. A red-and-black stadium seen from above.](./assets/perfil.svg)
+![Magal (@MagalDevs), ao lado de um estádio desenhado em vermelho e preto.](./assets/perfil.svg)
 
-I'm a software developer from Indaiatuba, Brazil, studying Multiplatform Software Development at Fatec Indaiatuba. The red and black up top are for Flamengo. 🔴⚫
+**Português** · [English](./README.en.md)
 
-[LinkedIn](https://www.linkedin.com/in/daniel-galv%C3%A3o-magalh%C3%A3es-da-silva-7617b9326/) · [Email](mailto:daniel.gal.m.silva@gmail.com)
+Sou Daniel Galvão, mas pode me chamar de **Magal**. Trabalho como Developer na [Ericsson](https://www.ericsson.com/) e estudo Desenvolvimento de Software Multiplataforma na Fatec Indaiatuba. Meu foco é desenvolvimento, engenharia e arquitetura de software.
 
-## Selected projects
+O estádio rubro-negro da capa é uma homenagem ao meu time, o Flamengo. 🔴⚫
 
-**[MedReminder](https://github.com/MagalDevs/Front_MedReminder)** · Next.js, React, TypeScript  
-A web app for scheduling medication reminders and checking off doses as you take them.
+[LinkedIn](https://www.linkedin.com/in/daniel-galv%C3%A3o-magalh%C3%A3es-da-silva-7617b9326/) · [E-mail](mailto:daniel.gal.m.silva@gmail.com)
 
-**[Face recognition at FIEC](https://github.com/MagalDevs/Reconhecimento-Facial-Java-Fiec)** · Java, OpenIMAJ  
-My teammates and I built a face recognition demo for the FIEC open house. It compares a face captured on camera with photos registered in the app.
+## Minha stack
 
-## Toolbox
-
-| Area | Technologies |
+| Área | Tecnologias |
 | --- | --- |
-| Languages | Java · TypeScript · JavaScript · Python |
-| Backend | Spring · NestJS · Node.js |
-| Frontend & CMS | React · Next.js · Bootstrap · WordPress |
-| Databases | PostgreSQL · MySQL · MongoDB |
-| Platform & tools | Firebase · Docker |
+| Linguagens | Java · Python · JavaScript · TypeScript |
+| Backend | Spring Boot |
+| Bancos de dados | Apache Cassandra · PostgreSQL · MySQL |
 
----
+## Projetos em destaque
 
-On GitHub · [Ericsson Open Source](https://github.com/Ericsson)
+**[MedReminder](https://github.com/MagalDevs/Front_MedReminder)** · TypeScript  
+Interface web para organizar horários de medicamentos, receber lembretes e registrar as doses tomadas.
+
+**[Reconhecimento facial na FIEC](https://github.com/MagalDevs/Reconhecimento-Facial-Java-Fiec)** · Java  
+Minha equipe e eu criamos esta demonstração para o evento FIEC Portas Abertas. Usamos a biblioteca OpenIMAJ para comparar rostos capturados pela câmera com fotos cadastradas.
