@@ -1,10 +1,8 @@
-![Magal (@MagalDevs), ao lado de um estádio desenhado em vermelho e preto.](./assets/perfil.svg)
+![Magal (@MagalDevs) ao lado do monograma do Flamengo com a estrela dourada.](./assets/perfil.svg)
 
 **Português** · [English](./README.en.md)
 
-Sou Daniel Galvão, mas pode me chamar de **Magal**. Trabalho como Developer na [Ericsson](https://www.ericsson.com/) e estudo Desenvolvimento de Software Multiplataforma na Fatec Indaiatuba. Meu foco é desenvolvimento, engenharia e arquitetura de software.
-
-O estádio rubro-negro da capa é uma homenagem ao meu time, o Flamengo. 🔴⚫
+Sou Daniel Galvão, mais conhecido como **Magal**. Sou Software Developer na [Ericsson](https://www.ericsson.com/) e estudante de Desenvolvimento de Software Multiplataforma (DSM) na Fatec de Indaiatuba. Apaixonado por esportes, desenvolvimento e pelo Flamengo 🔴⚫
 
 ## Linguagens
 

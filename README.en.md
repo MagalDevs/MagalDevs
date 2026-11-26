@@ -1,10 +1,8 @@
-![Magal (@MagalDevs) beside a stadium drawn in Flamengo’s red and black.](./assets/perfil.svg)
+![Magal (@MagalDevs) alongside Flamengo’s monogram and gold star.](./assets/perfil.svg)
 
 [Português](./README.md) · **English**
 
-I'm Daniel Galvão, but you can call me **Magal**. I'm a developer at [Ericsson](https://www.ericsson.com/) and I study Multiplatform Software Development at Fatec Indaiatuba. My focus is software development, engineering, and architecture.
-
-The red-and-black stadium in the banner is a nod to my team, Flamengo. 🔴⚫
+I'm Daniel Galvão, better known as **Magal**. I'm a Software Developer at [Ericsson](https://www.ericsson.com/) and I study Multiplatform Software Development (DSM) at Fatec in Indaiatuba. I love sports, software development, and Flamengo 🔴⚫
 
 ## Languages
 
