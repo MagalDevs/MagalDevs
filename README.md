@@ -1,84 +1,45 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+![Magal (@MagalDevs) ao lado do monograma do Flamengo com a estrela dourada.](./assets/perfil.svg)
 
-###
+**Português** · [English](./README.en.md)
 
-<p align="left">My name is Daniel Galvão and I'm a software developer, from Brazil</p>
+Sou Daniel Galvão, mais conhecido como **Magal**. Sou Software Developer na [Ericsson](https://www.ericsson.com/) e estudante de Desenvolvimento de Software Multiplataforma (DSM) na Fatec de Indaiatuba. Apaixonado por esportes, desenvolvimento e pelo Flamengo 🔴⚫
 
-###
+## Linguagens
 
-<h2 align="left">Programming Languages</h2>
+<p>
+  <img src="./assets/icons/java.svg" width="48" height="48" alt="Java" title="Java">
+  <img src="./assets/icons/python.svg" width="48" height="48" alt="Python" title="Python">
+  <img src="./assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript">
+  <img src="./assets/icons/typescript.svg" width="48" height="48" alt="TypeScript" title="TypeScript">
+</p>
 
-###
+## Frontend
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+<p>
+  <img src="./assets/icons/react.svg" width="48" height="48" alt="React" title="React">
+  <img src="./assets/icons/angular.svg" width="48" height="48" alt="Angular" title="Angular">
+  <img src="./assets/icons/nextjs.svg" width="48" height="48" alt="Next.js" title="Next.js">
+</p>
 
-###
+## Backend
 
-<h2 align="left">Techs</h2>
+<p>
+  <img src="./assets/icons/nodejs.svg" width="48" height="48" alt="Node.js" title="Node.js">
+  <img src="./assets/icons/nestjs.svg" width="48" height="48" alt="NestJS" title="NestJS">
+  <img src="./assets/icons/spring-boot.svg" width="48" height="48" alt="Spring Boot" title="Spring Boot">
+</p>
 
-###
+## Bancos de dados
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+<p>
+  <img src="./assets/icons/apache-cassandra.svg" width="48" height="48" alt="Apache Cassandra" title="Apache Cassandra">
+  <img src="./assets/icons/postgresql.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL">
+  <img src="./assets/icons/mysql.svg" width="48" height="48" alt="MySQL" title="MySQL">
+</p>
 
-###
+## Contato
 
-<h2 align="left">Databases</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-<h2 align="left">Contact</h2>
-
-###
-
-<div align="left">
-  <a href="https://github.com/MagalDevs/dio-lab-open-source.git" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:daniel.gal.m.silva@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MagalDevs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+<p>
+  <a href="https://www.linkedin.com/in/daniel-galv%C3%A3o-magalh%C3%A3es-da-silva-7617b9326/"><img src="./assets/icons/linkedin.svg" width="48" height="48" alt="LinkedIn" title="LinkedIn"></a>
+  <a href="mailto:daniel.gal.m.silva@gmail.com"><img src="./assets/icons/email.svg" width="48" height="48" alt="Enviar e-mail" title="Enviar e-mail"></a>
+</p>
