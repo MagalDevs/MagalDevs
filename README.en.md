@@ -37,6 +37,14 @@ I'm Daniel Galvão, better known as **Magal**. I'm a Software Developer at [Eric
   <img src="./assets/icons/mysql.svg" width="48" height="48" alt="MySQL" title="MySQL">
 </p>
 
+## GitHub activity
+
+<p align="center">
+  <a href="https://github.com/MagalDevs?tab=overview#js-contribution-activity">
+    <img src="https://streak-stats.demolab.com/?user=MagalDevs&amp;background=18181C&amp;border=38383F&amp;stroke=424248&amp;ring=E9464F&amp;fire=FFC857&amp;currStreakNum=FAF4E9&amp;sideNums=FAF4E9&amp;currStreakLabel=FF8289&amp;sideLabels=D7CFC3&amp;dates=B9B2A8&amp;border_radius=12&amp;card_width=620&amp;locale=en" width="620" alt="MagalDevs on GitHub: total contributions, current streak, and longest streak in days.">
+  </a>
+</p>
+
 ## Contact
 
 <p>
