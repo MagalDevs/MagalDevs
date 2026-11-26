@@ -15,9 +15,19 @@ O estádio rubro-negro da capa é uma homenagem ao meu time, o Flamengo. 🔴⚫
   <img src="./assets/icons/typescript.svg" width="48" height="48" alt="TypeScript" title="TypeScript">
 </p>
 
-## Frameworks
+## Frontend
 
 <p>
+  <img src="./assets/icons/react.svg" width="48" height="48" alt="React" title="React">
+  <img src="./assets/icons/angular.svg" width="48" height="48" alt="Angular" title="Angular">
+  <img src="./assets/icons/nextjs.svg" width="48" height="48" alt="Next.js" title="Next.js">
+</p>
+
+## Backend
+
+<p>
+  <img src="./assets/icons/nodejs.svg" width="48" height="48" alt="Node.js" title="Node.js">
+  <img src="./assets/icons/nestjs.svg" width="48" height="48" alt="NestJS" title="NestJS">
   <img src="./assets/icons/spring-boot.svg" width="48" height="48" alt="Spring Boot" title="Spring Boot">
 </p>
 
