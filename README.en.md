@@ -6,20 +6,32 @@ I'm Daniel Galvão, but you can call me **Magal**. I'm a developer at [Ericsson]
 
 The red-and-black stadium in the banner is a nod to my team, Flamengo. 🔴⚫
 
-[LinkedIn](https://www.linkedin.com/in/daniel-galv%C3%A3o-magalh%C3%A3es-da-silva-7617b9326/) · [Email](mailto:daniel.gal.m.silva@gmail.com)
+## Languages
 
-## My stack
+<p>
+  <img src="./assets/icons/java.svg" width="48" height="48" alt="Java" title="Java">
+  <img src="./assets/icons/python.svg" width="48" height="48" alt="Python" title="Python">
+  <img src="./assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript">
+  <img src="./assets/icons/typescript.svg" width="48" height="48" alt="TypeScript" title="TypeScript">
+</p>
 
-| Area | Technologies |
-| --- | --- |
-| Languages | Java · Python · JavaScript · TypeScript |
-| Backend | Spring Boot |
-| Databases | Apache Cassandra · PostgreSQL · MySQL |
+## Frameworks
 
-## Selected projects
+<p>
+  <img src="./assets/icons/spring-boot.svg" width="48" height="48" alt="Spring Boot" title="Spring Boot">
+</p>
 
-**[MedReminder](https://github.com/MagalDevs/Front_MedReminder)** · TypeScript  
-A web interface for scheduling medication reminders and keeping track of doses as you take them.
+## Databases
 
-**[Face recognition at FIEC](https://github.com/MagalDevs/Reconhecimento-Facial-Java-Fiec)** · Java  
-My teammates and I built this demo for FIEC’s open house. We used OpenIMAJ to compare faces captured on camera with photos registered in the app.
+<p>
+  <img src="./assets/icons/apache-cassandra.svg" width="48" height="48" alt="Apache Cassandra" title="Apache Cassandra">
+  <img src="./assets/icons/postgresql.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL">
+  <img src="./assets/icons/mysql.svg" width="48" height="48" alt="MySQL" title="MySQL">
+</p>
+
+## Contact
+
+<p>
+  <a href="https://www.linkedin.com/in/daniel-galv%C3%A3o-magalh%C3%A3es-da-silva-7617b9326/"><img src="./assets/icons/linkedin.svg" width="48" height="48" alt="LinkedIn" title="LinkedIn"></a>
+  <a href="mailto:daniel.gal.m.silva@gmail.com"><img src="./assets/icons/email.svg" width="48" height="48" alt="Send an email" title="Send an email"></a>
+</p>
